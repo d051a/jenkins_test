@@ -1,0 +1,5 @@
+with_plugins/jenkins
+without_plugins/jenkins
+p38_venv/*
+p38_venv
+.idea
